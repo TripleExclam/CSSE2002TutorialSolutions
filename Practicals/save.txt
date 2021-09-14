@@ -1,0 +1,19 @@
+4
+// Wahoo
+3
+// Wahoo
+// Wahoo
+// Wahoo
+// Wahoo
+Brisbane International|bne
+// Wahoo
+Sydney International|syd
+Dubai International|dxb
+// Wahoo
+// Wahoo
+John F. Kennedy International|jfk
+1192|bne|syd|MON
+8|syd|dxb|SUN
+// Wahoo
+349|jfk|bne|WED
+// Wahoo

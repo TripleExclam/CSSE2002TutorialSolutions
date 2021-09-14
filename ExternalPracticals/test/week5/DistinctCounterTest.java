@@ -62,7 +62,7 @@ public class DistinctCounterTest {
     // test that strings are returned in alphabetical order
     @Test
     public void testOrder() {
-        for (int i = data.length - 1; i >= 0 ; i--) {
+        for (int i = data.length - 1; i >= 0; i--) {
             distinct.add(data[i]);
         }
 
